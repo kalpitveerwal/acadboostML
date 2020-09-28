@@ -1,4 +1,4 @@
-# Skillboost-ml
+# Skillboost-ML
 ### This is the official repository containing the notebooks of the tutorials.
 ### Contents
 1. Datasets -
