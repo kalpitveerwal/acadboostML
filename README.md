@@ -51,8 +51,14 @@
     
     iv) Categorical encoding techniques 
     
-    v) Data visualization for beginners 
+    v) Feature Selection technique 
     
-    vi) Titanic Survival Prediction solution 
+    vi) Data visualization for beginners 
     
-    vii) Telecom Churn Analysis solution 
+    vii) Titanic Survival Prediction solution 
+    
+    viii) Telecom Churn Analysis solution 
+    
+5. Module 4 - Deep learning 
+    
+    i) Deep learning implementation
